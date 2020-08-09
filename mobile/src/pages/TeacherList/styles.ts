@@ -38,6 +38,16 @@ const styles = StyleSheet.create({
         marginBottom: 16,
     },
 
+    inputPicker: {
+		height: 54,
+		backgroundColor: '#FFF',
+		borderRadius: 8,
+		justifyContent: 'center',
+		paddingLeft:3,
+		marginTop: 4,
+		marginBottom: 16,
+	},
+
     submitButton: {
         backgroundColor: "#04d361",
         height: 56,
